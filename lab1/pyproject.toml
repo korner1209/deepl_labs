@@ -1,0 +1,10 @@
+[project]
+name = "lab1-deep-learning"
+version = "0.1.0"
+description = "Backpropagation implementation using NumPy and PyTorch verification"
+requires-python = "==3.12.*"
+dependencies = [
+    "numpy>=2.0.0",
+    "torch>=2.0.0",
+    "scikit-learn>=1.5.0",
+]
